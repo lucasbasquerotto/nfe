@@ -1,0 +1,26 @@
+{
+	"1": {
+		"razaosocial": "RAZAO SOCIAL DO EMISSOR 1",
+		"cnpj": "11111111111111",
+		"ie": "111111111111",
+		"siglaUF": "SP",
+		"CSC": "GPB0JBWLUR6HWFTVEAS6RJ69GPCROFPBBB8G", 
+		"CSCid": "000002"
+	},
+	"2": {
+		"razaosocial": "RAZAO SOCIAL DO EMISSOR 2",
+		"cnpj": "22222222222222",
+		"ie": "222222222222",
+		"siglaUF": "SP",
+		"CSC": "GPB0JBWLUR6HWFTVEAS6RJ69GPCROFPBBB8G", 
+		"CSCid": "000002"
+	},
+	"3": {
+		"razaosocial": "RAZAO SOCIAL DO EMISSOR 3",
+		"cnpj": "33333333333333",
+		"ie": "333333333333",
+		"siglaUF": "SP",
+		"CSC": "GPB0JBWLUR6HWFTVEAS6RJ69GPCROFPBBB8G", 
+		"CSCid": "000002"
+	}
+}
